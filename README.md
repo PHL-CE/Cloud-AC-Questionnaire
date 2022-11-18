@@ -9,4 +9,6 @@ Please perform the following actions:
 
 ## Questions
 
-1. 
+1. What git command(s) did you use to pull this repo?
+2. What git command(s) did you use to stage your changes to this README?
+3. What git command(s) did you use to submit your changes to this README?
